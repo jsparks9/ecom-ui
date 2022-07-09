@@ -1,0 +1,15 @@
+.directory {
+  height:100%;
+  .item {
+    width: 50%;
+    height: 700px;
+    float: left;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; // for now
+  }
+}
+
+.wrapper {
+  height: 100%;
+}
